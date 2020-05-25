@@ -1,8 +1,6 @@
-# sample-repository
-You can optionally add a title for a link. This will appear as a tooltip when the user hovers over the link. To add a title, enclose it in parentheses after the URL.
+# Git Essentials / offical repository
 
-##deployment notes
-You can optionally add a title for a link. This will appear as a tooltip when the user hovers over the link. To add a title, enclose it in parentheses after the URL.
+i'am sathish i started to explore the world.
+To knowledge.
 
-##staging notes
-You can optionally add a title for a link. This will appear as a tooltip when the user hovers over the link. To add a title, enclose it in parentheses after the URL.
+Git is good to use.
